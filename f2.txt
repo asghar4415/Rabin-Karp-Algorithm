@@ -1,0 +1,199 @@
+Abandon	        Give Up
+Abate	        Less Intense
+Abet	        Encourage 
+Accede	        Agreeing On A Demand
+Adapt   	Adjust
+Adequate	Enough
+Ambivalence	Uncertainty
+Analogous	Parallel
+Anomaly	        Oddity
+Expect	        Predict
+Antipathy	Hostility
+Apex	        Tip
+Apprehension	Anxiety
+Articulate	Fluent
+Artificial	False
+Assertion	Declaration
+Authenticity	Genuine
+Avenue   	Path
+Basic	        Fundamental
+Bear	        Support
+Berate	        Scold
+Bias	        Partiality
+Bittersweet	Partly bitter or sweet
+Boost 	        Increase
+Bovine	        Relating To Cattle
+Braggart	A Person Who Boasts About Achievements
+Brawl	        Fight
+Brevity	        Shortness
+Burnish	        Polish
+Cacophony	Harsh Mixture Of Sounds
+Candid	        Frank
+Capture	        Catch
+Catalyst	Substance That Leads To Chemical Reaction Increase
+Cache	        Collection Of Similar Items
+Censorious	Critical Of Others
+Clout	        Smack
+Coincide	Occur
+Commission	An Offer
+Comparable	Similar
+Competent	Capable
+Complacent	Self-satisfied
+Concede	         Admit
+Conceive	To Produce Something
+Conduct	        Manage
+Constitute	Compose
+Course    	Route
+Culmination	Climax
+Dearth	        Lack
+Deference	Respect
+Demagogue	Rabble-rouser
+Demur	        To Object To
+Deplete	        Use Over Time
+Desolate	Empty
+Devise	        To Come Up With
+Dilemma	        Confusion
+Diluvial	Biblical Flood
+Diminish	To Become Small
+Dire	        Hopeless
+Disdain	        Lack Of Respect
+Dispassionate	No Strong Interest
+Doctrine	Belief
+Effluvia	Harmful Odor
+Eloquent	Expressive Communication Skills
+Eminent	        High Position
+Emulate	        Match
+Endure	        To Withstand
+Entail	        To Invoice
+Specify	        State
+Epochal	        Significant
+Erratic	        Deviating From The Norm
+Establish	To Found
+Excel	        To Top
+Exploit	        To Use For-Profit
+Expound  	Present
+Ferocity	Violence
+Flourish	Prosper
+Forcible	Forceful
+Frankly	        Directly
+Fundamental	Basic
+Galvanizing	Shock
+Geriatric	Relating To Old People
+Hostile	        Aggressive
+Hubris	        Excessive Pride
+Impart	        Spread
+Impartiality	Unfairness
+Imposition	Forcing
+Indifference	Lack Of Interest
+Indulge	        Give Away To
+Importunate	Persistent
+Innovative	Original
+Inversion	Reverse
+Lament	        Groan
+Locomotion	Movement
+Malicious	Bitter
+Materialistic	Worldly
+Modest	        Humble
+Mawkish	        Sentimental
+Novel	        Book
+Null	        Invalid
+Objectify	Degrade To A Status
+Omnipotent	Supreme
+Onset	        Beginning
+Opine	        Suggest
+Oust	        Expel
+Pandemic	Widespread
+Paramount	Most Important
+Patrician	Aristocrat
+Peculiar	Strange
+Potent	        Powerful
+Perish	        Fall
+Persecute	Oppress
+Petulant	Peevish
+Pinnacle	Peak
+Pitiable	Deserving Pity
+Plausible	Credible
+Prompt	        Give Rise To
+Polyglot	Writing Or Speaking In Many Languages
+Provocative	Infuriating
+Prescribe	Order 
+Prestidigitation  Sleight Of Hand
+Prohibit	Banning
+Placid	        Tranquil
+Prosecute	Criminal Proceedings Against A Person
+Quantitative	Expressible Amount
+Quirk	        Oddity
+Quarry	        Mine For Stone
+Ramify	        To Split Up Into Branches
+Rancor   	Bitterness
+Rarefy	        Become Less Solid
+Rash	        Reckless
+Raw	        Uncooked
+Reapproach	To approach anew
+Reform	        Improve
+Refute	        Disprove
+Reinforce	Strengthen
+Resilient	Strong
+Revile	        Criticize
+Rife	        Widespread
+Sanctimonious	Pious
+Satiated	To excess
+Savvy	        Sharpness
+Scandalous	Disreputable
+Scorn	        Contempt
+Sagacious	Wise
+Scrupulous	Careful
+Sedition	Agitation
+Sacrosanct	Very Holy
+Sentiment	Emotion
+Sallow	        Yellowish
+Simple	        Easy
+Sinecure	Soft Option
+Spawn	        Offspring In Great Numbers
+Spur	        Incentive
+Subordinate	Junior
+Stroke	        Strengthen 
+Significant	Important
+Subtle	        Fine
+Ample	        Many
+Surly	        Grumpy
+Surmount	Overcome
+Sybarite	Sensualist
+Tactful	        Considerate
+Taut	        Tight
+Teeming	        Be full of
+Temperament	Nature
+Tentative	Approximate
+Terse	        Abrupt
+Transparent	Clear  
+Tremendous	  Extreme
+Trounce  	Beat Hollow
+Ubiquitous	Everywhere
+Unadorned	Undecorated
+Undermine	Wear Away
+Unwitting	Unconscious
+Underscore	Line Drawn Under A Word
+Undulate	Surge
+Unilateral	Involving Only One Group Or Community
+Upbraid	        Scold
+Unjust	        Unfair
+Uproarious	Very funny
+Unmitigated	Absolute
+Unprecedented	Unmatched
+Unveil	        Reveal
+Urge	        Desire
+Upshot	        Outcome
+Usury 	        Lending Money
+Validate	Prove
+Viability	State Of Being Viable
+Vital	        Important
+Venal	        Corrupt
+Vow	        Oath
+Vital    	Essential
+Warrant	        Authorization
+Winsome	        Appealing
+Wry	        Ironic
+Yeoman  	Attendant
+Yield	        Surrender
+Yowl    	Making A Loud Cry
+Zenith	        High Point
