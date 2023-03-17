@@ -1,1 +1,1 @@
-this is our pf project . leader asghar ali, members ramin and muniba
+this file is just to search for any word in this file by the program. It shows the basic working of this algorithm.
